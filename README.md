@@ -11,3 +11,5 @@ O’REILLY「ゼロから作るDeepLearning」を学ぶ
 
 - 公式リポジトリ
   - https://github.com/oreilly-japan/deep-learning-from-scratch
+  - テストデータ等が含まれている
+  - (自分のGoogleDriveのルート)/Colab Notebooks/DeepLearningFromScratch/officialの下に展開
